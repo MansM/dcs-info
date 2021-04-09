@@ -1,6 +1,6 @@
 # DCS info
 
-This repository will contain a curated list of dcs utilities, mods, etc. If you want to update or add an entry: or make a pull request or create a new issue.
+This repository will contain a curated list of dcs utilities, mods, etc. If you want to update or add an entry: or make a pull request or create a [new issue](https://github.com/MansM/dcs-info/issues/new).
 
 ## Utilities
 
@@ -18,4 +18,5 @@ This repository will contain a curated list of dcs utilities, mods, etc. If you 
 |C130J-30|<https://forums.eagle.ru/topic/252075-dcs-super-hercules-mod-by-anubis/> |[![download latest version](icons/mdi/download.png)](https://www.mediafire.com/file/1yp8vp3milr32dq/Hercules_ver_6.6.zip/file)||
 |F22| <https://fsoutlet.com/f22/> | [![download latest version](icons/mdi/download.png)](https://fsoutlet.com/f22/) | Needs FC3 or F15C|
 
+download icon from mdi/google
 <!-- [![download latest version](icons/mdi/download.png)](url) -->
